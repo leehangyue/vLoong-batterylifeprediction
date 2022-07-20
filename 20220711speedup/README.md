@@ -1,3 +1,29 @@
+# 模型输出
+/main.py
+Full
+Start building features ...
+Done building features
+Elastic net
+Regression Error (Train): 17.18643595931101%
+Regression Error (validation (primary) test): 15.441419357399532%
+Regression Error batch 3 (test (secondary)): 15.994807949609571%
+
+Discharge
+Start building features ...
+Done building features
+Elastic net
+Regression Error (Train): 20.086221092263333%
+Regression Error (validation (primary) test): 22.185422566178755%
+Regression Error batch 3 (test (secondary)): 13.300873602369084%
+
+Variance
+Start building features ...
+Done building features
+Elastic net
+Regression Error (Train): 21.598792575612748%
+Regression Error (validation (primary) test): 21.338942120859418%
+Regression Error batch 3 (test (secondary)): 12.52243357023756%
+
 # README模板
 
 ## 1. 简介
